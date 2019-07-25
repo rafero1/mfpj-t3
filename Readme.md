@@ -1,0 +1,1 @@
+﻿C++ e Qt para interface.
